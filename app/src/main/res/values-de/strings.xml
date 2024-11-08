@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestenerkennung mit DTW</string>
+    <string name="no_accelerometer">Beschleunigungssensor nicht verfügbar</string>
+    <string name="wait">Bitte warten</string>
+    <string name="start">Start</string>
+    <string name="stop">Stopp</string>
+    <string name="delete">Löschen</string>
+    <string name="back">Zurück</string>
+    <string name="empty">Noch keine Gesten gespeichert</string>
+    <string name="save_to_list">Speichern Sie die Geste, um sie zur Liste hinzuzufügen</string>
+    <string name="similar_gesture">Geste ähnelt:</string>
+    <string name="accelerometer_values">Beschleunigungssensorwerte:</string>
+    <string name="gesture_name">Geben Sie den neuen Gestennamen ein</string>
+    <string name="save">Speichern</string>
+    <string name="cancle">Abbrechen</string>
+    <string name="save_add_to_list">Speichern Sie die Geste, um sie zur Liste hinzuzufügen</string>
+    <string name="enter_gesture_name">Gestenname ist erforderlich</string>
+    <string name="name_too_long">Gestenname darf nicht länger als 20 Zeichen sein</string>
+    <string name="name_already_exists">Eine Geste mit diesem Namen existiert bereits</string>
+    <string name="list">Liste</string>
+</resources>

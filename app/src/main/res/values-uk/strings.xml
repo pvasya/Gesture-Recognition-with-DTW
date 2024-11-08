@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Розпізнавання жестів за допомогою DTW</string>
+    <string name="no_accelerometer">Акселерометр не доступний</string>
+    <string name="wait">зачекайте, будь ласка</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="delete">Видалити</string>
+    <string name="back">Назад</string>
+    <string name="empty">Жодного жесту ще не збережено</string>
+    <string name="save_to_list">Збережіть жест, щоб додати його до списку</string>
+    <string name="similar_gesture">Жест подібний до: </string>
+    <string name="accelerometer_values">Значення акселерометра:</string>
+    <string name="gesture_name">Введіть назву нового жесту</string>
+    <string name="save">Зберегти</string>
+    <string name="cancle">Відмінити</string>
+    <string name="save_add_to_list">Збережіть жест, щоб додати його до списку</string>
+    <string name="enter_gesture_name">Потрібно ввести назву жесту</string>
+    <string name="name_too_long">Назва жесту не може бути довше 20 символів</string>
+    <string name="name_already_exists">Жест з такою назвою вже існує</string>
+    <string name="list">Список</string>
+</resources>

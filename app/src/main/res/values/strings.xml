@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture Recognition with DTW</string>
+    <string name="no_accelerometer">Accelerometer not available</string>
+    <string name="wait">Please wait</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="empty">No gestures saved yet</string>
+    <string name="save_to_list">Save the gesture to add it to the list</string>
+    <string name="similar_gesture">Gesture is similar to:</string>
+    <string name="accelerometer_values">Accelerometer values:</string>
+    <string name="gesture_name">Enter the new gesture name</string>
+    <string name="save">Save</string>
+    <string name="cancle">Cancel</string>
+    <string name="save_add_to_list">Save the gesture to add it to the list</string>
+    <string name="enter_gesture_name">Gesture name is required</string>
+    <string name="name_too_long">Gesture name cannot exceed 20 characters</string>
+    <string name="name_already_exists">A gesture with this name already exists</string>
+    <string name="list">List</string>
+</resources>
